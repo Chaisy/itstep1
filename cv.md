@@ -2,7 +2,7 @@
 
 ---
 
-![Photo](./фото/photo.jpg)
+![Photo](./photo/photo.jpg)
 
 ####*Contacts:*
 **Phone number:** +375336947822
