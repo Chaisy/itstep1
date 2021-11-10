@@ -13,7 +13,7 @@
 
 ---
 
-### <p align="center"><b><i>Information about Myself</i></b></p>
+### <b><i>Information about Myself</i></b>
 
 >My goal in programming - is to become a good specialist,
 for which I put a lot of effort.
@@ -27,7 +27,7 @@ And my case is just perfect for it.
 
 ---
 
-### <p align="center"><b><i>Skills</i></b></p>
+### <b><i>Skills</i></b>
 
 >My strengths include:
 
@@ -52,7 +52,7 @@ CSS| +
 JavaScript| in process
 
 ---
-### <p align="center"><b><i>Examples of my code</i></b></p>
+### <b><i>Examples of my code</i></b>
 >__HTML__
 ```html
 <!DOCTYPE html>
@@ -181,7 +181,7 @@ int main() {
 
 ---
 
-### <p align="center"><b><i>Education</i></b></p>
+### <b><i>Education</i></b>
 
 At the moment I am studying in the first year of the <span  style="background-color: #f7f9e9">Belarusian State University of Informatics and Radio Engineering</span>
 at the Faculty
@@ -191,10 +191,9 @@ opportunity for additional development. A year ago I studied C#,
 HTML, CSS, Python at an elementary level.
 
 ---
-### <p align="center"><b><i>English</i></b></p>
+### <b><i>English</i></b>
 I studied English at school, as well as additional courses
 for better knowledge of the rules and language practice,
 I have experience communicating with native speakers, reading
 literature in English
-
 
