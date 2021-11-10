@@ -54,6 +54,8 @@ JavaScript| in process
 ---
 ### <b><i>Examples of my code</i></b>
 >__HTML__
+
+
 `html
 <!DOCTYPE html>
 <html lang="en">
@@ -116,6 +118,8 @@ JavaScript| in process
 </html>
 `
 >__C++__
+
+
 `cpp
 #include <iostream>
 #include <cmath>
