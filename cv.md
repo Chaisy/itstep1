@@ -2,7 +2,9 @@
 
 ---
 
-![Photo](./photo/photo.jpg)
+<p align="right">
+  <img src="./photo/photo.jpg"  width="350">
+</p>
 
 ### *Contacts*
 **Phone number:** +375336947822
