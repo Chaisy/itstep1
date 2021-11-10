@@ -9,7 +9,7 @@
 ### *Contacts*
 **Phone number:** +375336947822
 
-**Email:** [dashulianorton@gmail.com](dashulianorton@gmail.com)
+**Email:** [dashulianorton@gmail.com](mailto:dashulianorton@gmail.com)
 
 **Telegram:** [Darya Shevtsova](https://t.me/Dar_Ya_For_You)
 
