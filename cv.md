@@ -4,7 +4,7 @@
 
 ![Photo](./photo/photo.jpg)
 
-#### *Contacts:*
+### *Contacts*
 **Phone number:** +375336947822
 
 **Email:** [dashulianorton@gmail.com](dashulianorton@gmail.com)
@@ -56,7 +56,7 @@ JavaScript| in process
 >__HTML__
 
 
-`html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,11 +116,11 @@ JavaScript| in process
 </footer>
 </body>
 </html>
-`
+```
 >__C++__
 
 
-`cpp
+```cpp
 #include <iostream>
 #include <cmath>
 #include <iomanip>
@@ -181,7 +181,7 @@ int main() {
     }
     return 0;
 }
-`
+```
 
 ---
 
