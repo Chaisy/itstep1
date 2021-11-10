@@ -54,7 +54,7 @@ JavaScript| in process
 ---
 ### <b><i>Examples of my code</i></b>
 >__HTML__
-```html
+`html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,9 +114,9 @@ JavaScript| in process
 </footer>
 </body>
 </html>
-```
+`
 >__C++__
-```cpp
+`cpp
 #include <iostream>
 #include <cmath>
 #include <iomanip>
@@ -177,7 +177,7 @@ int main() {
     }
     return 0;
 }
-```
+`
 
 ---
 
