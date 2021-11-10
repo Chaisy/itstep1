@@ -1,10 +1,10 @@
-###Darya Shevtsova
+### Darya Shevtsova
 
 ---
 
 ![Photo](./photo/photo.jpg)
 
-####*Contacts:*
+#### *Contacts:*
 **Phone number:** +375336947822
 
 **Email:** [dashulianorton@gmail.com](dashulianorton@gmail.com)
@@ -13,7 +13,7 @@
 
 ---
 
-###<p align="center"><b><i>Information about Myself</i></b></p>
+### <p align="center"><b><i>Information about Myself</i></b></p>
 
 >My goal in programming - is to become a good specialist,
 for which I put a lot of effort.
@@ -27,7 +27,7 @@ And my case is just perfect for it.
 
 ---
 
-###<p align="center"><b><i>Skills</i></b></p>
+### <p align="center"><b><i>Skills</i></b></p>
 
 >My strengths include:
 
@@ -52,7 +52,7 @@ CSS| +
 JavaScript| in process
 
 ---
-###<p align="center"><b><i>Examples of my code</i></b></p>
+### <p align="center"><b><i>Examples of my code</i></b></p>
 >__HTML__
 ```html
 <!DOCTYPE html>
@@ -181,7 +181,7 @@ int main() {
 
 ---
 
-###<p align="center"><b><i>Education</i></b></p>
+### <p align="center"><b><i>Education</i></b></p>
 
 At the moment I am studying in the first year of the <span  style="background-color: #f7f9e9">Belarusian State University of Informatics and Radio Engineering</span>
 at the Faculty
@@ -191,7 +191,7 @@ opportunity for additional development. A year ago I studied C#,
 HTML, CSS, Python at an elementary level.
 
 ---
-###<p align="center"><b><i>English</i></b></p>
+### <p align="center"><b><i>English</i></b></p>
 I studied English at school, as well as additional courses
 for better knowledge of the rules and language practice,
 I have experience communicating with native speakers, reading
