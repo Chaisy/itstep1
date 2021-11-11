@@ -1,0 +1,275 @@
+.ramka1{
+    height:100px;
+    background:#F5F6F7;
+}
+body{
+    margin: 0;
+}
+html{
+    overflow-x: hidden;
+}
+.logo{
+    position: absolute;
+    height: 47px;
+    left: 4.55%;
+    right: 84.71%;
+    top: 20px;
+
+}
+.text{
+    position: absolute;
+    height: 17px;
+    top: 28px;
+    font-family: Roboto, math;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 17px;
+    padding-top: 20px;
+}
+#t1{
+    padding-left: 700px;
+}
+#t2{
+    padding-left: 950px;
+}
+#t3{
+    padding-left: 1150px;
+}
+#t4{
+    padding-left: 1450px;
+}
+#ramka2{
+    background:#F5F6F7;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 0;
+    border-radius: 15%;
+    width: 500px;
+    height: 700px;
+    border: 3px double darkgrey;
+
+}
+.picture{
+    height: 700px;
+    position: absolute;
+    border-radius: 15%;
+    left: 20%;
+    top: 25%;
+}
+.ramrka3 {
+    background: #F5F6F7;
+    border-radius: 15%;
+    width: 600px;
+    height: 500px;
+    border: 3px double darkgrey;
+    position: absolute;
+    right: 10%;
+    top: 37%;
+    font-family: Roboto, sans-serif;
+
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 60px;
+}
+.descr{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+.textInR3{
+text-decoration: overline;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 3.0;
+}
+#FonForTastes{
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    left: 10%;
+    width: 500px;
+    padding: 0;
+}
+#tree1{
+    position: absolute;
+    margin-top: 130px;
+    left: 15%;
+    height: 300px;
+}
+#tree2{
+    position: absolute;
+    margin-top: 170px;
+    left: 25%;
+    height: 200px;
+    margin-bottom: 0;
+}
+.blueberry{
+    position: absolute;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    left: 10%;
+    top: 130%;
+    padding: 0;
+}
+.list{
+    position: absolute;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    left: 15%;
+    top: 130%;
+    padding: 0;
+}
+#ramka4{
+    background: #E3E6EF;
+    border-radius: 5%;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    right: 55%;
+    top: 118%;
+    margin-bottom: 50px;
+
+}
+#t5{
+    font-family: Roboto, sans-serif;
+    font-size: 30px;
+    text-align:left;
+    text-decoration: underline;
+}
+#textInTastes{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    margin: 60px;
+    font-size: 25px;
+}
+
+#decorForR5{
+    position: absolute;
+    top: 92%;
+    right: 2%;
+    margin: 0;
+}
+#decorForR51{
+    position: absolute;
+    top: 120%;
+    right: 2%;
+    transform: scale(1, -1);
+}
+#coffee{
+    position: absolute;
+    top: 180%;
+    right: 63%;
+    height: 450px;
+}
+#ramka6{
+    position: absolute;
+    top: 196%;
+    right: 21%;
+    background:#F5F6F7;
+    border-radius: 15%;
+    width: 800px;
+    height: 150px;
+    border: 3px double darkgrey;
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+    padding: 60px 10px 0 90px;
+}
+.ramka7{
+    position: absolute;
+    height:150px;
+    width: 455px;
+    border-radius: 8px;
+    background: #E3E6EF;
+    box-shadow: 0 8px 32px rgba(15, 35, 54, 0.06);
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+
+}
+#des1{
+    left: 55%;
+    top: 100%;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#des2{
+    left: 65%;
+    top: 120%;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#des3{
+    left: 55%;
+    top: 140%;
+    padding: 30px 10px 10px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+html,
+body {
+    height: 100%;
+}
+.wripper {
+    position: relative;
+    min-height: 100%;
+}
+.content {
+    padding-bottom: 90px;
+}
+.footer {
+    position: absolute;
+    left: 0;
+    top: 240%;
+    bottom: 0;
+    width: 100%;
+    height: 297px;
+    background: #0F2336;
+    border-radius: 0px;
+
+
+}
+.TextInFooter{
+    color: white;
+    margin-top: 40px;
+    margin-left: 90px;
+    position: relative;
+    top: 200px;
+}
+
+.container {
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 90%;
+    top: 160px;
+    bottom: 10px;
+    float: left;
+
+}
+.link{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px double dimgrey;
+    border-radius: 50%;
+    margin-right: 10px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.sc-vk{
+    color: #0489f9;
+}
+.sc-tel{
+    color: blue;
+    text-align: center;
+    padding-right: 3px;
+}
