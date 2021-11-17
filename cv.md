@@ -1,7 +1,7 @@
 ### Darya Shevtsova
 
 ---
-
+![Photo](./фото/photo.jpg)
 <p align="right">
   <img src="./photo/photo.jpg"  width="350">
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-### <b><i>Information about Myself</i></b>
+###<p align="center"><b><i>Information about Myself</i></b></p>
 
 >My goal in programming - is to become a good specialist,
 for which I put a lot of effort.
@@ -29,7 +29,7 @@ And my case is just perfect for it.
 
 ---
 
-### <b><i>Skills</i></b>
+###<p align="center"><b><i>Skills</i></b></p>
 
 >My strengths include:
 
@@ -54,10 +54,8 @@ CSS| +
 JavaScript| in process
 
 ---
-### <b><i>Examples of my code</i></b>
+###<p align="center"><b><i>Examples of my code</i></b></p>
 >__HTML__
-
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -120,8 +118,6 @@ JavaScript| in process
 </html>
 ```
 >__C++__
-
-
 ```cpp
 #include <iostream>
 #include <cmath>
@@ -187,7 +183,7 @@ int main() {
 
 ---
 
-### <b><i>Education</i></b>
+###<p align="center"><b><i>Education</i></b></p>
 
 At the moment I am studying in the first year of the <span  style="background-color: #f7f9e9">Belarusian State University of Informatics and Radio Engineering</span>
 at the Faculty
@@ -197,7 +193,7 @@ opportunity for additional development. A year ago I studied C#,
 HTML, CSS, Python at an elementary level.
 
 ---
-### <b><i>English</i></b>
+###<p align="center"><b><i>English</i></b></p>
 I studied English at school, as well as additional courses
 for better knowledge of the rules and language practice,
 I have experience communicating with native speakers, reading
