@@ -1,13 +1,15 @@
-###Darya Shevtsova
+### Darya Shevtsova
 
 ---
-
 ![Photo](./фото/photo.jpg)
+<p align="right">
+  <img src="./photo/photo.jpg"  width="350">
+</p>
 
-####*Contacts:*
+### *Contacts*
 **Phone number:** +375336947822
 
-**Email:** [dashulianorton@gmail.com](dashulianorton@gmail.com)
+**Email:** [dashulianorton@gmail.com](mailto:dashulianorton@gmail.com)
 
 **Telegram:** [Darya Shevtsova](https://t.me/Dar_Ya_For_You)
 
@@ -196,5 +198,4 @@ I studied English at school, as well as additional courses
 for better knowledge of the rules and language practice,
 I have experience communicating with native speakers, reading
 literature in English
-
 
